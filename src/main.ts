@@ -7,7 +7,7 @@ async function bootstrap() {
   const config = new DocumentBuilder()
     .setTitle('Devices API')
     .setDescription(
-      'API created for the Instituto de Pesquisas Eldorado challenge',
+      'New API created',
     )
     .setVersion('1.0')
     .addTag('devices')
